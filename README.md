@@ -1,2 +1,2 @@
 # bma-website
-Virtuelel BMA
+Virtuelle BMA
